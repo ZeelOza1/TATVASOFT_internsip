@@ -64,8 +64,8 @@ Day 13 : My Profile Page and Deployment
 • Explore configuring deployment environments and strategies.
 • Hands-on: Create My Profile Page and Prepare for project deployment using various strategies.
 
-Day 14 : Discussion
-
-Day 15 : AWS Session
+Day 14 : AWS Session
 • AWS services and deployment
 • Hands-on: Expand knowledge to include AWS services and deployment.</p>
+
+Day 15 : Discussion
